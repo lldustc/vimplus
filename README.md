@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ![][1]
 
 An automatic configuration program for vim
@@ -299,7 +298,3 @@ This software is licensed under the [MIT license][75]. © 2016 chxuan
   [75]: https://github.com/chxuan/vimplus/blob/master/LICENSE
   [76]: https://blog.csdn.net/wang73ying/article/details/82491993
   [77]: https://blog.csdn.net/liuyangbo121/article/details/82971736
-=======
-# vimplus
-myown vimplus without install software
->>>>>>> 3b418e34446ace84c70fda75bf5bf17dcbd04bd8
