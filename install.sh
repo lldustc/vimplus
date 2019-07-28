@@ -199,6 +199,9 @@ function copy_files()
     rm -rf ~/.vimrc
     ln -s ${PWD}/.vimrc ~
 
+    rm -rf ~/global_extra_conf.py
+    ln -s ${PWD}/global_extra_conf.py ~
+
     rm -rf ~/.vimrc.local
     cp ${PWD}/.vimrc.local ~
 
